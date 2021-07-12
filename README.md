@@ -4,7 +4,7 @@ This is a Repository for the programs we do everyday on the uncode - Competetive
 
 This Repo includes all programs related to java Fundamentals taught on Unacademy During the sessions daily.
 
-You can watch the missed out sessions over here -https://bit.ly/playlistuncode
+You can watch the missed out sessions over here - https://bit.ly/3er2WD5
 
 Also follow me on unacademy using this link - https://unacademy.com/@unacademy-user-836NVMQPIRXT
 
