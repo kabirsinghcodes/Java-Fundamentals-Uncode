@@ -8,6 +8,8 @@ public class average {
             sum += num;
         }
         int avg = sum / arr.length;
+        System.out.println("The sum of the elements of the array are : " + sum);
+        System.out.println("The number of elements in the array are : " + arr.length);
         System.out.println("The average of the numbers is : " + avg);
     }
 }
