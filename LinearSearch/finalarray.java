@@ -21,7 +21,7 @@ public class finalarray {
 
         for (int i = 0; i < n; i++) {
             if (arr[i] == search) {
-                System.out.println(search + " was found at the position : " + i);
+                System.out.println(search + " was found at the position : " + (i + 1));
                 temp = temp + 1;
                 break;
             }
