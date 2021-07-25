@@ -23,7 +23,7 @@ public class bsf {
 
     public static void main(String[] args) {
         int arr[] = new int[] { 1, 2, 3, 7, 11, 13, 14, 15, 90, 91, 100 };
-        int search = 13;
+        int search = 547989;
         int last = arr.length - 1;
         binarysear(arr, 0, last, search);
     }
