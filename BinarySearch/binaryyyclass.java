@@ -1,3 +1,5 @@
+// BINARY SEARCH USING BINARY CLASS IN JAVA
+
 package BinarySearch;
 
 import java.util.*;
