@@ -1,5 +1,6 @@
 package HundredQuestions;
 
+//FASCINATING NUMBER
 import java.util.Scanner;
 
 public class question6 {
