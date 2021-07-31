@@ -11,7 +11,7 @@ public class question23 {
         for (int i = 1; i <= n; i++) {
             fact = fact * i;
         }
-        System.out.println("Factorial : " + fact);
+        System.out.println("Factorial of the given number is  : " + fact);
 
     }
 }
